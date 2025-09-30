@@ -2,6 +2,7 @@
 
 ![LuvSO's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuvSO&count_private=true)
 
+<img src="https://img.shields.io/badge/instagram-#FF0069?style=flat-square&logo=instagram&logoColor=pink"/></a>&nbsp 
 
 ## Introduction
 안녕하세요 저는 24학번 문소현입니다
