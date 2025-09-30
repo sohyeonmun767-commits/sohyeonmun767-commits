@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakao&logoColor=yellow"/>
 
 ### backend
-<img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=light purple"/>
+<img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=purple"/>
 <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=orange"/>
 
 
