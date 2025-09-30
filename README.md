@@ -2,12 +2,10 @@
 
 ![LuvSO's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuvSO&count_private=true)
 ### profile
-<img src="https://img.shields.io/badge/instagram-FF0069?style=flat-square&logo=instagram&logoColor=pink"/>
-<img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakao&logoColor=yellow"/>
+<img src="https://img.shields.io/badge/instagram-FF0069?style=flat-square&logo=instagram&logoColor=pink"/> <img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=red"/> <img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakao&logoColor=orange"/>
 
 ### backend
-<img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=purple"/>
-<img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=orange"/>
+<img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=purple"/> <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=yellow"/>
 
 
 ## Introduction
