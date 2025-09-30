@@ -13,5 +13,5 @@ I am 22 years old , my major is Software Convergence Major
 <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white"/> <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
 
 
-## 💙others..
+### 💙others..
 
