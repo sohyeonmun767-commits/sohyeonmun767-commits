@@ -7,7 +7,7 @@ I am 22 years old , my major is Software Convergence Major
 :kissing_cat:"If you’re wondering about anything, just ask!":kissing_cat:
 
 ### ❤sns
-<img src="https://img.shields.io/badge/instagram-FF0069?style=flat-square&logo=instagram&logoColor=pink"/> <img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=red"/> <img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakao&logoColor=orange"/>
+<img src="https://img.shields.io/badge/instagram-FF0069?style=flat-square&logo=instagram&logoColor=pink"/> <img src="https://img.shields.io/badge/youtube-FF0000?style=flat-square&logo=youtube&logoColor=red"/>&nbsp <img src="https://img.shields.io/badge/kakao-FFCD00?style=flat-square&logo=kakao&logoColor=orange"/>&nbsp
 
 ### :orange_heart: tool
 <img src="https://img.shields.io/badge/eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=purple"/> <img src="https://img.shields.io/badge/jupyter-F37626?style=flat-square&logo=jupyter&logoColor=yellow"/>
