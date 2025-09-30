@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=300&section=header&text=Have%20a%20Nice%20Day%20🍀)
 
-![LuvSO's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuvSO&count_private=true)
+![SOHYEON GitHub stats](https://github-readme-stats.vercel.app/api?username=SOHYEON&count_private=true)
 ## :white_heart:Introduction
 Hi , everyone !! my name is MOONSOHYEON
 I am 22 years old , my major is Software Convergence Major
