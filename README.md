@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=300&section=header&text=Have%20a%20Nice%20Day%20🍀)
+![header](https://capsule-render.vercel.app/api?type=Blur&color=gradient&height=300&section=header&text=Hello%20everyone%20🍀)
 
 ![SOHYEON GitHub stats](https://github-readme-stats.vercel.app/api?username=SOHYEON&count_private=true)
 
