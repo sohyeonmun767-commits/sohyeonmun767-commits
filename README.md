@@ -5,6 +5,7 @@
 ## :white_heart:Introduction
 Hi , everyone !! my name is MOONSOHYEON
 I am 22 years old , my major is Software Convergence Major
+ email == 04veronica@naver.com
  
 😻 If you’re wondering about anything, just ask 😻 
 
